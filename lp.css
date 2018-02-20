@@ -1,0 +1,55 @@
+body
+{   background-color: grey;
+    font-family: 'Kavivanar', cursive;
+    font-family: 'Share Tech Mono', monospace;
+    font-family: 'Frijole', cursive;
+    font-family: 'Croissant One', cursive;            ;
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+    line-height: 150%;
+}
+header
+{
+   
+    background-color: goldenrod;
+    padding-top: 10px;
+    padding bottom: 10px;
+}
+.container
+{
+    background: cornflowerblue;
+}
+h1{
+    text-align: center;
+    line-height: 150%;
+    padding-bottom: 25px;
+    margin: 0;
+}
+/*  */
+h3{
+    color: ivory;
+    background-color: grey;
+    font-size: 95%;
+    text-align: center;
+}
+a { color: ivory;}
+
+.panelA
+{
+    color: rgb(167, 172, 187);
+    background: darkcyan;
+    
+
+}
+#about,
+#picture{
+    float: left;
+}
+#about{
+    color: khaki;
+    margin-top: 0px;
+    margin-left: 25px;
+    width: 50%;
+ }
+ 
